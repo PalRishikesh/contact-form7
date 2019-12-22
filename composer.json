@@ -1,0 +1,17 @@
+{
+    "name": "rishi/contact-form",
+    "description": "Contact form  7 like wordpress",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Rishikesh",
+        "email": "rishikesh.pal@unicoconnect.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rishi\\Contact\\": "src/"
+        }
+    }
+}
