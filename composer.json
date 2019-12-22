@@ -13,5 +13,12 @@
         "psr-4": {
             "Rishi\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Rishi\\Contact\\ContactFormServiceProvider"
+            ]
+        }
     }
 }
